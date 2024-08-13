@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+korea
+seoul
+tokyo
+bajing
+=======
+new order
+new order2
+new order2
+nara
+>>>>>>> 8e143e9 (osaka)
+usa
